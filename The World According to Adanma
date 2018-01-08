@@ -1,0 +1,112 @@
+<!doctype html>
+<title> The World According to Adanma </title>
+<meta name="viewport" content="width=device-width">
+<meta name="author" content="Adanma Adebayo-Kay">
+<link rel="stylesheet" href="/css/article.css">
+<style>
+html{
+  font: normal 15px fantasy;
+  color:azure; 
+  ma
+  width: 320px;
+  background: hotPink url(/images/textures/light2a.png);
+}
+h1 {
+ font: normal 25px 'Shadows Into Light', cursive; 
+ text-decoration: underline;
+ color:lavender;
+ margin: 0px;
+ text-shadow: 0px 1px 0px darkGray, 0px 2px 0px gray, 0px 3px 0px lightslategray, 0px 4px 0px dimGray, 0px 5px 0px darkslategray, 0px 6px 5px black;
+}
+  h2{
+  font: normal 10x 'Times New Roman', serif;
+  color: aqua;
+   border: none;
+   margin: none;
+  
+}
+header { 
+  background-color: maroon;
+   border: gold ridge 7px;
+   text-align: center;
+   margin-left: -10px;
+   margin-right: -10px;
+}
+footer{
+  background-color: maroon;
+   border: gold ridge 7px;
+   text-align: center;
+  margin-left: -10px;
+   margin-right: -10px;
+}
+a{
+  color: oldLace;
+  text-decoration: none;
+}
+a:hover{
+  color: green;
+  text-decoration: underline;
+  font: normal 15px'Times New Roman', serif;
+}
+a:visited{
+  color:maroon;
+}
+img {
+  height: 199px;
+  border: gold ridge 7px;
+  margin: 10px;
+  box-shadow: 1px 1px 8px 4px violet;
+}
+p { 
+  margin: 14px 0px 10px 0px;
+  text-align: justify;
+}
+ul {
+  list-style-type: circle;
+  list-style-image: url(/images/silverStar.png);
+}
+
+</style>
+<section>
+<header><h1>The World According To Adanma</h1></header>
+<h2>In the Beginning</h2>
+<p>Once upon a time, there was a girl named Adanma. She was born on August 9th, 2005. She was born in Lagos. Lagos is a city in Nigeria, which is a country in Africa. Lagos used to be the capital of Nigeria, but it was moved to Abuja due to overpopulation. Adanma was named "Adanma", a name meaning "beautiful princess", because beauty is a very important attribute for women in Nigerian society. <u>In giving her this name, her mother wanted her to grow up to be an intelligent, kind, and beautiful woman.</u></p>
+ 
+
+   
+<h2>Young Life</h2>
+
+<p> After about 4 years in Lagos, my family moved to America. So I grew up in Chicago, Illinois. My first day at school in Chicago was very strange for me. I went to Walt Disney Magnet school, and I was in preschool. The American education system is very different from the African one, so it was not easy to acclamatize. My first friends were two girls from that preschool class, our moms knew each other quite well and we were,at first, somewhat forced to be friends, but later became closer. While I have never really been on vacation, I do go to Indiana from time to time. My funniest memory is perhaps when I was in the 1st grade and misspelled "sentence" in the school spelling bee. I was quite upset then, but now I look back at it and laugh. I, as one of Jehovah's Witnesses, do not celebrate any holidays or birthdays. One sport I enjoy is Tennis, and I love to read. I have <em>no</em> freedom from my parents. </p>
+
+<h2> Middle to high school </h2>
+     
+     <p> I currently attend Whitney M. Young High School for middle school. I plan to stay here for high school as well. This is a much different school from Disney. It is lest structured and I have more freedom. Both schools are amazing, and I'm enjoying my educational career. On the first day of school, I talked a lot and made a lot of new friends. Some that I still have now are Mia, Maggie and Riya. They are very kind and caring people. My phone is a Rose Gold Samsung J7. I like it very much. I still like Tennis and reading books, although I have less time for hobbies now. I hope to participate in (and win) the Spelling Bee.</p>
+     
+<h2>Future Plans</h2>
+     
+       <p><strong>In the future:</strong></p>
+       <ul>
+       <li>I hope to go to a good college, for example, NorthWestern. 
+       <li>I want to work as a lawyer
+       <li>Be single
+       <li>And finally go on Vacation.
+       </ul>
+       <hr>
+       
+<h2>More About Me!</h2>
+       
+       <p>3 adjectives I would use are 1) kind; because I try my best to be kind and considerate to those around me, 2) outgoing; because I talk a alot, and 3) hardworking; I am very self-driven and work hard towards my goals. My favorite subjects in school are Reading and Social Studies beacuse they are very interesting and open-ended. Outside of school, I compete in the Spelling Bee .</p>
+<a target="_blank" type="media_type" href=http://spellingbee.com/>Spelling Bee Website</a>
+
+<img src="http://spellingbee.com/themes/bee_theme/logo.svg" width="200" height="100" title="The Spelling Bee" alt="A picture of the spelling Bee logo">
+
+<br>
+<h2>Present and future </h2>
+        
+     <p>A physical goal I have for myself is to become stronger. I will do so by exercising often and eating more strengthening foods. An emotional goal I have for myself is to become an overall happier person.I will do so by cutting negative people out of my life and surrounding myself with happier people. A social goal I have for myself is to talk to people more often. I will do so by adopting a happier attitude towards people in my life and expanding my circle.</p>
+
+<footer> Created by Adanma Adebayo-Kay, December  2018© <a Adanma href="profile.html" /a>
+       
+  <!--HTML: the title tag is used to briefly and accurately describes the topic and theme of an online document. The header tags show the headings of each part of the writing, the image tags provide images, the hyperlink links a website to your website, the <ul> tag provides a list of whatever you'd like to list, the <meta> tag provides metadata about the HTML document, the <hr>, or horizontal rule, divides the separate areas of text, the <strong> tag boldens text, the <em> tag italicizes it, and the <u> tag underlines it. The <!doctype> tage signifies that yu are coding in html -->
+  <!--CSS: the font- property controls the font's weight, size, and family, the border: controls the borders, the margin: controls the margins, the 'box-shadow:' and 'text-shadow' properties control the shadows' left right, up down and blur and spread, the 'background' controls the background color, and the hover and align properties align the text and control what happens if you hover over some part of it. -->
+     
